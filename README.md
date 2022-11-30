@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @berrinonsiper
+- 👀 I’m a computer engineer from Istanbul.
+- 🌱 I’m currently interested in Python for data analysis.
+- 📫 How to reach me: https://www.linkedin.com/in/berrin-naz-%C3%B6nsiper-11b0b2b4/
